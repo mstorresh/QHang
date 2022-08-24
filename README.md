@@ -28,8 +28,13 @@ Therefore, one of the options to solve this problem is the Quantum approximate o
 The component of the problem proposed by Strangeworks is to approach the maximum cut problem from a graph representation of the project. This problem mainly suggests working with 4 binary nodes. Using this representation, we start with the QAOA process of finding the minimum energy of the Hamiltonian. With this in mind, We would like to know the cost of doing it with the QOAO. 
 
 The steps: 
-* Define the Graph with the weights
+* Define the Graph with the weights and 4 nodes
 * Obtain the Hamiltonian from the graph 
+* Getting the exact solution (obtain the exact ground state of the Hamiltonian)
+* Initialize the parameters (the 2 angles)
+  * Preparing the state with the qaoa circuit, measure and compute the expectation value.
+  * Finding the new values of parameters
+  * repeat the process     
 
 
 ## Discussion 
