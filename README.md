@@ -13,7 +13,7 @@ Hackaton Womanium
 
 ## Pitch Presenter
 
-name
+Cristian
 
 # Quantum-approximate-optimisation-algorithms-for-real-world-scenarios---Strangeworks
 
@@ -39,5 +39,12 @@ The steps:
 
 ## Discussion 
 
+During the process of the analysis and solution of this project it was concluded: 
 
+
+
+
+Besides that we not only stayed with the general idea of max cut with QAOA, but we found direct applications in different areas, which one that caught our attention is the application in spin glass(1), which is important in materials science. Something interesting in these cases is the existence of negative weights, which when processed by the QAOA system increased the amount of solutions and therefore the resources needed to develop this kind of problems.  
+ 
+(1) "A spin glass is a disordered magnetic state where the spatial average of the magnetization over the sites is zero while the time average of the orientation of any given spin is non-zero, in contrast to a paramagnet where both averages are zero." Taken from: https://www.sciencedirect.com/topics/materials-science/spin-glass
 
