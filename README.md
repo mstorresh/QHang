@@ -4,6 +4,7 @@ Hackaton Womanium
 
 ## Members
 * Cristian Galvis
+  * Cristian2407
   * GitHub ID: cagalvisf
   * email:     cagalvisf@unal.edu.co
 * Manuel Torres
